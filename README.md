@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Amratlalramnani
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate with people who works as data analyst
-- 📫 How to reach me - www.linkedin.com/in/amrit-ramnani
-
-<!---
-Amritramnani/Amritramnani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Amratlal Ramnani, you can call me Amrit!  
+📊 Data Analyst passionate about turning raw data into actionable insights.  
+💡 Skilled in Excel, SQL, Power BI, and Python.  
+📈 Interested in business intelligence, data visualization, and predictive analytics.  
+🔗 Portfolio: https://www.datascienceportfol.io/Ramnaniamrit | LinkedIn: www.linkedin.com/in/amrit-ramnani 
+📩 Let's connect: ramnani.amrit@gmail.com
